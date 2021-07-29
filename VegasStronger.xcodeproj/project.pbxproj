@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		42C72E4B26B25D3E00ABE6EF /* HideKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C72E4A26B25D3E00ABE6EF /* HideKeyboard.swift */; };
 		42FA9BFD26AEC2330055DCC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FA9BFC26AEC2330055DCC9 /* AppDelegate.swift */; };
 		42FA9BFF26AEC2330055DCC9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FA9BFE26AEC2330055DCC9 /* SceneDelegate.swift */; };
 		42FA9C0126AEC2330055DCC9 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FA9C0026AEC2330055DCC9 /* LoginScreen.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		42C72E4A26B25D3E00ABE6EF /* HideKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboard.swift; sourceTree = "<group>"; };
 		42FA9BF926AEC2330055DCC9 /* VegasStronger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VegasStronger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42FA9BFC26AEC2330055DCC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42FA9BFE26AEC2330055DCC9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				42FA9BFE26AEC2330055DCC9 /* SceneDelegate.swift */,
 				42FA9C0026AEC2330055DCC9 /* LoginScreen.swift */,
 				42FA9C1026AED7900055DCC9 /* PackageScreen.swift */,
+				42C72E4A26B25D3E00ABE6EF /* HideKeyboard.swift */,
 				42FA9C0226AEC2330055DCC9 /* Main.storyboard */,
 				42FA9C0526AEC2350055DCC9 /* Assets.xcassets */,
 				42FA9C0726AEC2350055DCC9 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42C72E4B26B25D3E00ABE6EF /* HideKeyboard.swift in Sources */,
 				42FA9C0126AEC2330055DCC9 /* LoginScreen.swift in Sources */,
 				42FA9BFD26AEC2330055DCC9 /* AppDelegate.swift in Sources */,
 				42FA9C1126AED7900055DCC9 /* PackageScreen.swift in Sources */,
